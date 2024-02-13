@@ -11,7 +11,7 @@
          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://possible-orangutan-464.notion.site/CS-611c4e2ef0c2485a9099706b91eb63b7?pvs=4"></a>
  </p>
 </br>
-<h1>발전중인 기술스택 </h1>
+<h1>🛠️:발전중인 기술스택 </h1>
 <p>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
