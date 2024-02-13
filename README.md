@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMungDon&count_bg=%238BD9CD&title_bg=%23BEA4A4&icon=dev-dot-to.svg&icon_color=%23FFFFFF&title=%EB%82%98%EC%9D%98%EA%B9%83+%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 </br>
 </br>
-# 나의 공부기록! Notion!
+📌 <h1>나의 공부기록! Notion!</h1>
 <a href="https://possible-orangutan-464.notion.site/CS-611c4e2ef0c2485a9099706b91eb63b7?pvs=4">
          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://possible-orangutan-464.notion.site/CS-611c4e2ef0c2485a9099706b91eb63b7?pvs=4"></a>
  </p>
