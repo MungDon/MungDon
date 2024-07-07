@@ -12,6 +12,11 @@
          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://possible-orangutan-464.notion.site/CS-611c4e2ef0c2485a9099706b91eb63b7?pvs=4"></a>
  </p>
 </br>
+ <h1>📔나의 포트폴리오</h1>
+<a href="[https://possible-orangutan-464.notion.site/CS-611c4e2ef0c2485a9099706b91eb63b7?pvs=4](https://www.notion.so/ed501f49480f47fa97d92da51f288252)">
+         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://possible-orangutan-464.notion.site/CS-611c4e2ef0c2485a9099706b91eb63b7?pvs=4"></a>
+ </p>
+</br>
 <h1>🖥️나의 기술 스택</h1>
 <h3>🛠️BackEnd</h3>
 <p>
