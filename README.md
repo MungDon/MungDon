@@ -13,7 +13,7 @@
  </p>
 </br>
 <h1>🛠️나의 기술 스택🛠️</h1>
-<h2>🖥️ BackEnd</h2>
+<b>🖥️ BackEnd</b>
 <p>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
