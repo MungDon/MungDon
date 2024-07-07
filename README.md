@@ -32,7 +32,8 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/postgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-    <img src="https://img.shields.io/badge/jpa-4479A1?style=for-the-badge&logo=googlecloud&logoColor=white">
+    <img src="https://img.shields.io/badge/jpa-4479A1?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=&logoColor=white">
     
 </p>
 <h3>🔧Tool</h3>
