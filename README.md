@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
     <img src="https://img.shields.io/badge/jpa-4479A1?style=for-the-badge&logo=&logoColor=white">
     <img src="https://img.shields.io/badge/MyBatis-F80000?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=&logoColor=white">
 </p>
 </br>
 <h3>🔧Tool</h3>
