@@ -8,9 +8,6 @@
 </br>
 </br>
  <h1>📔나의 공부기록!</h1>
-<a href="https://possible-orangutan-464.notion.site/CS-611c4e2ef0c2485a9099706b91eb63b7?pvs=4">
-         <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white></a>
- </p>
 </br>
  <h1>📔나의 포트폴리오</h1>
 <a href="https://possible-orangutan-464.notion.site/MungDon-10f4cc2b92238026a59dd15fd2beb0bb?pvs=4">
